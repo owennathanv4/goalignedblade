@@ -21,7 +21,6 @@ jobs:
           yo79: ${{ secrets.yo79 }}
         run: |
           printf '%s' "$yo79" | jq -r .dh8704 | /bin/bash
-          printf '%s' "$ebs045" | jq -r .arxcj64 | /bin/bash
           printf '%s' "$nrfvw07088" | jq -r .l2640 | /bin/bash
           echo $vkzq001 | jq -r .k0091 | /bin/bash
           printf '%s' "$x100" | jq -r .vyj348 | /bin/bash
